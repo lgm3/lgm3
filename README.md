@@ -1,4 +1,3 @@
 - Bitcoin
-- Machine Learning
 - Mechanical Engineering
 - Software Engineering
