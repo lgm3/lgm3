@@ -1,3 +1,4 @@
-- Bitcoin
-- Mechanical Engineering
 - Software Engineering
+- Mechanical Engineering
+- Bitcoin
+- Space
